@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="man"  width="500px"/>
 </p>
 
-- 🔭 Experienced Full Stack Engineer with a demonstrated history of working in the information technology and services industry. Skilled in React, Node.js, HTML, JavaScript, and Project Management. Strong engineering professional with a Bachelor's degree focused in Computer Software Engineering from Kharkiv National University of Radioelectronics.
+- 🔭 Experienced Full Stack Engineer with a demonstrated history of working in the information technology and services industry. Skilled in React, Node.js, SQL databases, AWS, and Project Management. Strong engineering professional with a Bachelor's degree focused in Computer Software Engineering from Kharkiv National University of Radioelectronics.
 - 🌱 I’m currently working on [the Honey Framework](https://honey.bitfinex.com).
 - 👯 I’m looking to collaborate on some open source projects
 - 📫 How to reach me: anton@code-care.pro
