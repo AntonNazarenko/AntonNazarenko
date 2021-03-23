@@ -1,8 +1,7 @@
 ### Hi there 👋
-
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working.gif?raw=true" href="https://github.com/SP-XD" alt="CoDiNg RocKs"  width="550"/> </a> 
 <!--
 **AntonNazarenko/AntonNazarenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working.gif?raw=true" href="https://github.com/SP-XD" alt="CoDiNg RocKs"  width="550"/> </a> 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
