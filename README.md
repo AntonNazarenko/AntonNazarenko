@@ -2,6 +2,8 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/78/2d/8a/782d8a4346ab154282ec2e8dbb826e00.gif" alt="matrix"  width="100%"/>
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonnazarenko)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **AntonNazarenko/AntonNazarenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
